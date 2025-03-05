@@ -48,11 +48,11 @@ The classification is based on predefined sports personalities:
 {
   "class": "virat_kohli",
   "class_prob": [
-    1.47,  // Cropped
-    1.17,  // Lionel Messi
-    1.02,  // Maria Sharapova
-    1.08,  // Roger Federer
-    95.24  // Serena Williams
+    1.47,  
+    1.17,  
+    1.02,  
+    1.08,  
+    95.24  
   ]
 }
 ```
